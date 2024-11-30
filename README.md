@@ -6,7 +6,7 @@
 
 
 
-# entorno de desarrollo de  dev no salirse de esta rama kamtario
+# entorno de desarrollo de  dev no salirse  de esta rama kamtario
 =======
 <!-- listado: Emanuel (correcto1=2) -->  
 <!-- listado: kamtario (correcto1) -->  
